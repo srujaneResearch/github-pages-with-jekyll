@@ -1,6 +1,6 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: srujan's Blog
+author: Srujan Kachhwaha
+email: srujank0903@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -8,6 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  srujank0903
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
